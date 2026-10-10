@@ -27,3 +27,9 @@ Clone and pull operations practiced for DevOps CI assignment.
 
 Feature branch: Added a new feature for the DevOps CI assignment.
 
+
+
+
+
+Branch Status: FEATURE VERSION
+
