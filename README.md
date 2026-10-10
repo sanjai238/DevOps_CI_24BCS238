@@ -23,3 +23,7 @@ Python, Git, GitHub, Jenkins
 
 Clone and pull operations practiced for DevOps CI assignment.
 
+
+
+Bugfix branch: Corrected project documentation.
+
