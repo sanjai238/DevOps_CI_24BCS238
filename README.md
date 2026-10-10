@@ -27,3 +27,7 @@ Clone and pull operations practiced for DevOps CI assignment.
 
 Bugfix branch: Corrected project documentation.
 
+
+
+Branch Status: BUGFIX VERSION
+
